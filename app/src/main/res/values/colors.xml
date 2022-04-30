@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- User input and result text color -->
+    <color name ="colorUserInputText">#838181</color>
+    <color name="colorUserInputResultText">#363535</color>
+
+    <!-- Function buttons text & background colors -->
+    <color name ="colorFuncBtnBG">#2fb7d3</color>
+    <color name ="colorFuncBtnTxt">#ffffff</color>
+
+    <!-- Number buttons text & background colors -->
+    <color name ="colorNumbBtnBG">#393535</color>
+    <color name ="colorNumbBtnTxt">#a4a0a0</color>
+
+    <!-- Equal buttons text & background colors -->
+    <color name ="colorEqualBtnBG">#2fb7d3</color>
+    <color name ="colorEqualBtnTxt">#ffffff</color>
+
+</resources>

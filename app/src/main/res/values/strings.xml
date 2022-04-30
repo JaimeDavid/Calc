@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="resutlView">TextView</string>
+    <string name="resultView">resultView</string>
+    <string name="c">c</string>
+    <string name="percentage">%</string>
+    <string name="positiveminus">+/-</string>
+</resources>
